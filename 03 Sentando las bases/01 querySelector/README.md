@@ -17,6 +17,7 @@ Para más información, revisar el código HTML.
 Una vez resuelto el ejercicio, borrar el comentario que está en el código.
 
 
+
 ### Ejercicio 2
 
 Buscar la opinión de tres o más personas dentro el aula sobre qué tanto permiten que la tecnología maneje sus vidas y escribirlas en la sección de comentarios. Reemplazando el "Nombre del autor" por el nombre de la persona a la que se preguntó y el "Lorem ipsum..." por lo que esa persona haya dicho.
